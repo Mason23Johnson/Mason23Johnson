@@ -6,7 +6,7 @@ Currently, I'm focused on advanced game development, leveraging my skills to cre
 
 While I primarily code in C#, I adapt to GDScript for collaborative projects when necessary.
 
-
+---
 My expertise extends to:
 
 C# Applications: Developing console programs and sophisticated GUI applications, as highlighted in my repositories.
@@ -15,13 +15,13 @@ C# Applications: Developing console programs and sophisticated GUI applications,
 
 Java Mod Development: Creating mods for games such as Minecraft, including:
 
-  -Integrating Windows functionalities (e.g., webcams, microphones).
+  ---Integrating Windows functionalities (e.g., webcams, microphones).
   
-  -Modifying entities, textures, sounds, and environmental assets.
+  ---Modifying entities, textures, sounds, and environmental assets.
   
-  -Implementing design patterns and scalable architecture.
+  ---Implementing design patterns and scalable architecture.
   
-  
+---
 In addition to game development, I am continuously expanding my knowledge in databases, networking, and various software technologies to broaden my professional scope.
 
 Although my current focus lies in game design, I am passionate about exploring fields such as machine learning and cybersecurity. 
