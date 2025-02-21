@@ -7,17 +7,19 @@ I'm currently focused on advanced game and web development, leveraging my skills
 ---
 My expertise extends to:
 
-C# Applications: Developing console programs and sophisticated GUI applications, as highlighted in my repositories.
+C# Applications: Developing console programs and sophisticated applications, as highlighted in my repositories.
 
-Backend Web Development and Database Systems, as previously mentioned.
+Backend Web Development and Database Systems.
 
 2D & 3D GDScript and C# Game Development, as previously stated.
 
+---
+
 My current big projects (currently private on GitHub) are:
 
-  ---Advanced 2D platformer with combat and card-style fighting.
+  --- Advanced 2D platformer with combat and card-style fighting.
   
-  ---Personal online portfolio and website.
+  --- Personal online portfolio and website.
   
 ---
 In addition to game and web development, I am continuously expanding my knowledge in databases, networking, and various software technologies to broaden my professional scope.
