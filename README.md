@@ -1,6 +1,7 @@
 Mason Johnson - Salesforce Developer Intern at American Fidelity and Software Engineering Student
 
 www.moosharp.dev | out soon.
+
 Tinek | out soon.
 
 **Salesforce Development**
