@@ -1,17 +1,12 @@
-Mason Johnson
+Mason Johnson - Owner of TINEK and moosharp.
 
-Owner of TINEK and moosharp.
+Salesforce Developer Intern at American Fidelity and Software Engineering Student
 
+** - www.moosharp.dev**
 
-Salesforce Developer Intern at American Fidelity
+** - WWW.TINEK.US**
 
-Software Engineering Student
-
-www.moosharp.dev
-
-TINEK.US
-
-TinekApp | out soon.
+** - TinekApp | out soon. **
 
 **Salesforce Development**
 Apex · SOQL · Lightning Web Components (LWC) · Aura · JavaScript · HTML · CSS  
