@@ -1,8 +1,17 @@
-Mason Johnson - Salesforce Developer Intern at American Fidelity and Software Engineering Student
+Mason Johnson
+
+Owner of TINEK and moosharp.
+
+
+Salesforce Developer Intern at American Fidelity
+
+Software Engineering Student
 
 www.moosharp.dev
 
-Tinek | out soon.
+TINEK.US
+
+TinekApp | out soon.
 
 **Salesforce Development**
 Apex · SOQL · Lightning Web Components (LWC) · Aura · JavaScript · HTML · CSS  
