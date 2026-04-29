@@ -4,7 +4,7 @@ Salesforce Developer Intern at American Fidelity and Software Engineering Studen
 
  - www.moosharp.dev
 
- - https://TINEK.US
+ - www.TINEK.US
 
  - TinekApp | out soon. 
 
